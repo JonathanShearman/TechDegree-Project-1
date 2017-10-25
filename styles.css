@@ -90,8 +90,8 @@ header .profile-image:hover {
 }
 .card {
   margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
+  padding: 10px 30px 30px;
+  max-width: 400px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -121,7 +121,7 @@ ul.skills {
 }
 
 footer {
-  margin-right: inherit: 0;
+  margin: 50px;
   width: 100%;
   min-height: 250px;
   background: url('myimages/curves.jpg');
