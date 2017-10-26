@@ -83,6 +83,7 @@ header .profile-image:hover {
   border-radius: 5px;
   display: table;
   margin: 20px auto;
+  margin-top: 50px;
 }
 .location {
   background-color: #222;
@@ -120,14 +121,6 @@ ul.skills {
   background: #5E1B84;
 }
 
-#MyExperience {
-  background-color: #white;
-  color: white;
-  padding: 10px;
-  border-radius: 20px;
-  display: table;
-  margin: 20px auto;
-}
 
 footer {
   margin: 0px;
